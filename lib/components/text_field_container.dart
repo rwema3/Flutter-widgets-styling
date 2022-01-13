@@ -1,13 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:Starbelly_Restaurant_app/constants.dart';
-
 class TextFieldContainer extends StatelessWidget {
   final Widget child;
   const TextFieldContainer({
     Key key,
     this.child,
   }) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
