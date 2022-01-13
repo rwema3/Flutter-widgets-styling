@@ -6,9 +6,7 @@ void main() {
   runApp(Fastfood());
 
 }
-
 class Fastfood extends StatelessWidget {
-
 
   createAlertDialogBurger(BuildContext context){
     return showDialog(context: context, builder:(context){
@@ -200,7 +198,7 @@ class Fastfood extends StatelessWidget {
         ),
       );
     });
-
+// widget  application.
   }
   createAlertDialogVegeterian(BuildContext context){
     return showDialog(context: context, builder:(context){
