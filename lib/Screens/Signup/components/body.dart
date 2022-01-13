@@ -6,7 +6,6 @@ import 'package:Starbelly_Restaurant_app/components/rounded_button.dart';
 import 'package:Starbelly_Restaurant_app/components/rounded_input_field.dart';
 import 'package:Starbelly_Restaurant_app/components/rounded_password_field.dart';
 import 'package:flutter_svg/svg.dart';
-
 import '../../../restaurant_theme.dart';
 
 class Body extends StatelessWidget {
@@ -53,7 +52,7 @@ class Body extends StatelessWidget {
                     MaterialPageRoute(builder: (context) => Fastfood()),
                   );
             }
-
+// widget  application.
             ),
             OrDivider(),
             Row(
