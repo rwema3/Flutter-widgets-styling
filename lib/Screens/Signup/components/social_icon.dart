@@ -10,7 +10,7 @@ class SocalIcon extends StatelessWidget {
     this.iconSrc,
     this.press,
   }) : super(key: key);
-// widget  applica
+// widget  app
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
