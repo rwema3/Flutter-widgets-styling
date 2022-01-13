@@ -17,5 +17,5 @@ class MyApp extends StatelessWidget {
       ),
       home: SignUpScreen(),
     );
-  }
+  }// widget  application.
 }
