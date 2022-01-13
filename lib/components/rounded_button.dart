@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:Starbelly_Restaurant_app/constants.dart';
-
 class RoundedButton extends StatelessWidget {
   final String text;
   final Function press;
@@ -12,7 +11,6 @@ class RoundedButton extends StatelessWidget {
     this.color = kPrimaryColor,
     this.textColor = Colors.white,
   }) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
