@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       title: 'Starbelly_Restaurant_app',
       theme: ThemeData(
         primaryColor: kPrimaryColor, scaffoldBackgroundColor: Colors.white,
-      ),
+      ),/*theme data*/
       home: SignUpScreen(),
     );
   }// widget  application.
