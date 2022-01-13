@@ -7,6 +7,6 @@ const Rice = Color(0xFF074B6F);
 const Ptt = Color(0xFF275F51);
 const Melanje = Color(0xFF234014);
 const pizza = Color(0xFF44B1DC);
-const kaunga = Color(0xFF71342E);
+const kaunga = Color(0xFF531B15);
 const Privats = Color(0xFF465C03);
 
