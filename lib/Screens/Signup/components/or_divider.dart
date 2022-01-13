@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:Starbelly_Restaurant_app/constants.dart';
-
 class OrDivider extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
