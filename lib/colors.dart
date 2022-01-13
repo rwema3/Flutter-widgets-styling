@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 const kPrimaryColor = Color(0xFF061807);
-const kPrimaryLightColor = Color(0xFFF1E6FF);
+const kPrimaryLightColor = Color(0xFFEAE3F3);
 const Burger = Color(0xFF127F12);
 const Rice = Color(0xFF074B6F);
 const Ptt = Color(0xFF316C5D);
