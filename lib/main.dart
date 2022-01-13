@@ -12,8 +12,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Starbelly_Restaurant_app',
       theme: ThemeData(
-        primaryColor: kPrimaryColor,
-        scaffoldBackgroundColor: Colors.white,
+        primaryColor: kPrimaryColor, scaffoldBackgroundColor: Colors.white,
       ),
       home: SignUpScreen(),
     );
