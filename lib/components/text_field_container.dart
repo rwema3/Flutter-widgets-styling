@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:Starbelly_Restaurant_app/constants.dart';
 class TextFieldContainer extends StatelessWidget {
-  final Widget child;
+  final Widget child;// widget  application.
   const TextFieldContainer({
     Key key,
     this.child,
