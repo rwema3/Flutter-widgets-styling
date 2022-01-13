@@ -13,7 +13,7 @@ class Background extends StatelessWidget {
     return Container(
       height: size.height,
       width: double.infinity,
-      // Here i can use size.width but use double.infinity because both work as a same
+      // Here
       child: Stack(
         alignment: Alignment.center,
         children: <Widget>[
