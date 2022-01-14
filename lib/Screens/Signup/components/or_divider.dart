@@ -24,7 +24,7 @@ class OrDivider extends StatelessWidget {
         ],
       ),
     );
-  }/*Flur*/
+  }/*Flu*/
   Expanded buildDivider() {
     return Expanded(
       child: Divider(
