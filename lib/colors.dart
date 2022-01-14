@@ -8,5 +8,5 @@ const Ptt = Color(0xFF275F51);
 const Melanje = Color(0xFF3C5A2C);
 const pizza = Color(0xFF44B1DC);
 const kaunga = Color(0xFF9A463D);
-const Privats = Color(0xFF3B4C07);
+const Privats = Color(0xFF252814);
 
