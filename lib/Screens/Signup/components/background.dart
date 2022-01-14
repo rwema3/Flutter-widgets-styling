@@ -13,7 +13,7 @@ class Background extends StatelessWidget {
     return Container(
       height: size.height,
       width: double.infinity,
-      //er
+      //e
       child: Stack(
         alignment: Alignment.center,
         children: <Widget>[
