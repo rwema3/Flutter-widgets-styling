@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:Starbelly_Restaurant_app/colors.dart';
 import 'Screens/Signup/signup_screen.dart';
-// This widget is the root of your applica
+// This widget is the root of your appli
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  //This widget is the root of your application.
+  //This widget is the root of your application
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
